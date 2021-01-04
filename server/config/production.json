@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://dev:dev@my-mongodb-iylxo.gcp.mongodb.net/whatcha-doin?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
+}
